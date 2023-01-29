@@ -11,6 +11,6 @@ This package solves the Cart Pole problem using DQN
 
   
 ## Run
-'''
+```
 python cart_pole_example.py 
-'''
+```
