@@ -1,5 +1,5 @@
 # DQN_CartPole
-This package solves the Cart Pole problem using DQN.  
+This package solves the OpenAI gym 'CartPole-v0' problem using DQN.  
 
 
 ## Requirements
