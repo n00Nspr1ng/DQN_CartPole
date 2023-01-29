@@ -1,5 +1,5 @@
 # DQN_CartPole
-This code solves the OpenAI gym 'CartPole-v0' problem using DQN.  
+Solves the OpenAI gym 'CartPole-v0' problem using DQN.  
 
 
 ## Requirements
