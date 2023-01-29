@@ -1,6 +1,6 @@
 # DQN_CartPole
-This package solves the Cart Pole problem using DQN
-
+This package solves the Cart Pole problem using DQN.  
+Based on [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602)  
 
 ## Requirements
 - python==3.9
