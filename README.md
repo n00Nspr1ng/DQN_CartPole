@@ -7,3 +7,10 @@ This package solves the Cart Pole problem using DQN
 - gym==0.15.4
 - numpy==1.23.5
 - pytorch==1.31.1
+
+
+  
+## Run
+'''
+python cart_pole_example.py 
+'''
