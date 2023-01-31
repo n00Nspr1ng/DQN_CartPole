@@ -7,14 +7,14 @@ Solves the OpenAI gym 'CartPole-v0' problem using DQN.
 - gym==0.15.4
 - numpy==1.23.5
 - pytorch==1.31.1  
-
+- matplotlib
 
 
 
   
 ## Run
 ```
-python cart_pole_example.py 
+python3 main.py 
 ```
 
 
