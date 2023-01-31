@@ -4,6 +4,11 @@ from . import util
 
 class experienceReplay:
     def __init__(self, capacity):
+        '''
+        Class for making the buffer of replay memory
+        @ capacity : the max capacity of the buffer
+        '''
+
         self.capacity = capacity
         self.replay_memory = []
         self.index = 0
@@ -25,11 +30,10 @@ class experienceReplay:
         ''' Sample from the replay memory with batch size '''
         return random.sample(self.replay_memory, batch_size)
 
+
     def __len__(self):
         ''' Call self using 'len' function '''
         return len(self.replay_memory)
-
-
 
 
 
